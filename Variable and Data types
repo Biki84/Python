@@ -1,0 +1,15 @@
+To learn about Variable and Data types used in Python.
+# Variable:
+In Python, a variable is a symbolic name that refers to a value. 
+# Data Types:
+Data types in Python represent the kind of values that a variable can hold. Some common data types in Python include:
+1.Numeric Types:
+    i. Int
+    ii. Float
+2. String Types.
+3. Boolean Types.
+4.List Types.
+5.Tuple Types.
+6.Set Types.
+7.Dictionary Types.
+These are just a few examples, and Python supports more data types and structures. Understanding variables and data types is fundamental to working with Python and programming in general.
